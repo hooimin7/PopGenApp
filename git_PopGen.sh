@@ -6,7 +6,6 @@ git branch
 git commit -m "first commit"
 git branch -M main
 git branch
-# git remote add origin git@github.com:hooimin7/BINP29_Malaria.git # add the remote repository
 
 git push -u origin main
 cd BINP29_ANCIENTLINK
